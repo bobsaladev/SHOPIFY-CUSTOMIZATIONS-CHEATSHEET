@@ -1,4 +1,4 @@
-# BOBSALA'S Shopify Components Cheatsheet
+# @bobsala's Shopify Components Customization Cheatsheet
 
 A comprehensive guide for creating customizable and responsive components in Shopify themes.
 
